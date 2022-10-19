@@ -1,0 +1,7 @@
+build/*.js
+src/assets
+public
+dist
+# 我添加了一个src，否则会因为有逗号，分号等报错
+src
+mock
